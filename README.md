@@ -1,4 +1,4 @@
-# Задание №1. Roguelike
+## Задание №1. Roguelike
 
 ![demo](The%20Lower%20Depths/other/demo.gif)
 
@@ -11,3 +11,8 @@
 * [Описание задания](The%20Lower%20Depths/other/task.pdf)
 * [Шаблон](https://gitlab.com/vsan/msu_cmc_cg_2021/-/tree/master/template1_cpp)
 * [Atlantis Tileset](https://finalbossblues.itch.io/atlantis-tileset)
+
+
+## Задание №2. Ray tracing
+
+![pyramid](Ray%20Problems/output.png)
